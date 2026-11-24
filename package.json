@@ -1,0 +1,9 @@
+{
+  "name": "chientruong-relay",
+  "version": "1.0.0",
+  "description": "Máy chủ trung chuyển lệnh lockstep cho Chiến Trường",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "license": "MIT"
+}
